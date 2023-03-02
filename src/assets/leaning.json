@@ -1,0 +1,10 @@
+[
+  { "rangeMin": 0, "rangeMax": 10, "leaning": "Progressive Left" },
+  { "rangeMin": 11, "rangeMax": 20, "leaning": "Establishment Liberal" },
+  { "rangeMin": 21, "rangeMax": 40, "leaning": "Democratic Mainstay" },
+  { "rangeMin": 41, "rangeMax": 60, "leaning": "Centrist" },
+  { "rangeMin": 61, "rangeMax": 70, "leaning": "Ambivalent Right" },
+  { "rangeMin": 71, "rangeMax": 80, "leaning": "Populist Right" },
+  { "rangeMin": 81, "rangeMax": 90, "leaning": "Committed Conservative" },
+  { "rangeMin": 91, "rangeMax": 100, "leaning": "Faith and Flag Conservative" }
+]
