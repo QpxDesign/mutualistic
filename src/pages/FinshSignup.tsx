@@ -76,6 +76,17 @@ export default function FinshSignup() {
               }}
             />
           </div>
+          <h3
+            onClick={() => {
+              localStorage.setItem("email", "null");
+              localStorage.setItem("finishedSignup", "true");
+              window.location.pathname = "/home";
+            }}
+            style={{ marginTop: "1em", fontSize: "1.2em", cursor: "pointer" }}
+            role="link"
+          >
+            Skip
+          </h3>
         </div>
       </section>
     );
